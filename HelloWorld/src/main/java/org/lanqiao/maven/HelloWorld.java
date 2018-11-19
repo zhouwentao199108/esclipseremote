@@ -1,5 +1,5 @@
 package org.lanqiao.maven;
-//aaa+bbb
+//aaa+ccc
 public class HelloWorld{
 	public String sayHello(String name){
 		return "Hello "+name ;
